@@ -8,6 +8,7 @@ class Main{
             this.name = name;
             isAdult = age >= 18;
         }
+        //I did it!
 
         public String toString()
         {
